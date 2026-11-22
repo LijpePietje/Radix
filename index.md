@@ -13,7 +13,7 @@ The only data that leaves your device are the error reports in section 4.
 
 ## 2. Use of data
 
-The collected data is only used for:
+This data is only used for:
 
 - Calculating horoscopes
 - Saving your personal settings
