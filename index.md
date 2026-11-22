@@ -1,13 +1,15 @@
 # Privacy Policy for Radix App
 
-*Last updated: November 21, 2026*
+*Last updated: November 22, 2026*
 
-## 1. Data collection
+## 1. Data on your device
 
-This app only collects the following data:
+The app uses the following data on your device only; it is not sent to us or to anyone else:
 
-- Location data (only when permission is given)
-- Birth data entered by the user
+- Birth data you enter
+- Your location (only when permission is given)
+
+The only data that leaves your device are the error reports in section 4.
 
 ## 2. Use of data
 
